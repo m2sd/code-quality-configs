@@ -1,12 +1,10 @@
 parameters:
     git_dir: .
     bin_dir: vendor/bin
-    hooks_dir: .grumphp
     tasks:
       phpmd:
-        exclude:
-          - vendor/
-          - database/
+        ruleset:
+          - phpmd.xml
       phpcs: ~
       phpcsfixer2: ~
 
