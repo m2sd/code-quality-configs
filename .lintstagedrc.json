@@ -1,0 +1,4 @@
+{
+  "*.php": "./vendor/bin/grumphp git:pre-commit",
+  "*.{js,ts,vue}": "eslint"
+}
