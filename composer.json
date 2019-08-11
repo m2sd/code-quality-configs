@@ -1,7 +1,7 @@
 {
   "name": "m2s/code-quality-configs",
   "description": "An opinionated collection of code quality configs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Michael Marcenich",
