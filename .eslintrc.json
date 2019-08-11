@@ -25,5 +25,8 @@
     "parser": "@typescript-eslint/parser",
     "project": "./tsconfig.json"
   },
-  "rules": {}
+  "rules": {
+    "new-cap": "off",
+    "require-jsdoc": "off"
+  }
 }
